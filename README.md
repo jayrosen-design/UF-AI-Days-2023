@@ -3,6 +3,8 @@
 ### Presented at UF AI Days 2023  
 **Author**: Jay Rosen, BFA  
 [Website](https://jayrosen.design) | [LinkedIn](https://linkedin.com/in/jayrosenartist) | [GitHub](https://github.com/jayrosen-design)
+[![DOI](https://zenodo.org/badge/922321179.svg)](https://doi.org/10.5281/zenodo.14740738)
+
 
 ![UF AI Days 2023 Science Poster](https://github.com/jayrosen-design/UF-AI-Days-2023/blob/main/AI%20Days%20Poster%20-%20Jay%20Rosen%2048x36%2072dpi.png?raw=true)
 
