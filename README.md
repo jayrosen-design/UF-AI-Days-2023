@@ -16,65 +16,47 @@ Over the past year, the integration of AI into artistic endeavors has emerged as
 ## Highlighted Projects
 
 ### 1. Algorithmic Eyewear *(Award-Winning Project)*
-- **Description**: A collection of 100 AR headset designs created using GPT-4 and MidJourney 5.
-- **Features**: Unlocks unique VR experiences.
-- **Exhibitions**: Showcased at Miami NFT Week and Metaverse Fashion Week.
-- **Award**: 1st Place at UF Blockchain Lab NFT Contest.
+Algortihmic Eyewear was created the week of GPT 4 and MidJourney 5 release. This is a collection of 100 AR headsets inspired by my Mirror Visionwear sculptures. This AI artwork won 1st place award in UF Blockchain Lab NFT contest earlier this year. Each NFT unlocks a unique VR experience.  This series has been exhibited at Miami NFT Week at HODLER Gallery, Wynwood Miami as well as Metaverse Fashion Week at Mirror Vision Gallery.
 
 ---
 
 ### 2. Ex-Ray Vision *(Award-Winning Project)*
-- **Description**: A military simulation prototype that uses electromagnetic spectrum data to locate hidden devices, simulating X-Ray vision.
-- **Technology**: Developed with Unity, Magic Leap, and OpenAI Whisper.
-- **Award**: Best XR Award at Armed Forces Jam (VR/AR Association).
+Won Best XR Award at Armed Forces Jam for EX-Ray Vision, presented by VR/AR Association. Our military simulation prototype uses electromagnetic spectrum data emitted from WiFi devices to triangulate, locate, and neutralize malicious devices hidden in a building, simulating X-Ray vision ability to see through walls. By providing a more comprehensive and visual assessment of the wireless spectrum, EX-Ray Vision enhances  situational awareness and decision-making abilities. Developed with assistance from technical staff at Unity, Magic Leap, and US Department of Defense. Team: Dr. Jose Neto, Danny Tapia, Frederick Elia, Noah Sherkow, Jay Rosen
 
 ---
 
 ### 3. ED3N™
-- **Description**: A procedural astro-biology simulator video game where players create life and trade genotypes.
-- **Features**: AI-generated plants and creatures, with evolution mechanics based on DNA catalogs.
-- **Development**: Created by Interplay Entertainment.
+ED3N is being developed as an astro-biology simulator video game where players can create life and trade genotypes in Tomagatchi-like gameplay. Our planned evolution mechanics are designed  with DNA catalogs for procedural AI generated plants and creatures. ED3N Creatures are intended to flourish into never-before-imagined life forms influenced by user input. This project is being developed by Interplay Entertainment.
 
 ---
 
 ### 4. XR Caption
-- **Description**: Prototype for Microsoft's Mixed Reality Challenge, enhancing accessibility with real-time captions in AR.
-- **Technology**: Built with OpenAI Whisper and Three.js.
-- **Goal**: Improve classroom accessibility and enable the hearing-impaired to "hear with their eyes."
+At FIU ShellHacks, I prototyped XR Caption for Microsoft's Mixed Reality Challenge. XR Caption adds subtitles to reality to improve accessibility to information and can be used in the classroom to enhance education. Goal to enable the disabled, to hear with our eyes using AI. Built with OpenAI Whisper and ThreeJs. The AR headset is an open-source 3D printed design that fits a user’s smartphone to reflect the AI generated captions into the wearer’s eyes.
 
 ---
 
 ### 5. Stadium-Size Alligator Hologram
-- **Concept**: A 200 ft laser-projected alligator hologram for UF's $400 million football stadium expansion.
-- **Features**: Inspired by MidJourney-generated art starting in December 2022.
+Concept art for UF's $400 million expansion to the Gators football stadium. I imagine a collapsible, motorized geodesic dome screen and stadium size laser projected holograms. The 200 ft hologram alligator has been a re-occurring concept in my AI generated art, starting in December 2022 (Mid Journey 4), March 2023  (Mid Journey 5), and July 2023 (Mid Journey 5.2).
 
 ---
 
 ### 6. Butterfly AI
-- **Description**: A machine-learning app to identify over 70 species of Florida butterflies and moths.
-- **Technology**: TensorFlow/Keras, trained with data from the Florida Museum of Natural History.
-- **Team**: Alexia Rangel Krashenitsa, Amber Weihrich, Sonya Babski, Jay Rosen.
-- **Accuracy**: Achieved 85.4% accuracy in identifying species.
+At UF AI Days GatorHack, our team developed Butterfly AI, a "pokedex" machine learning app to identify species of butterflies native to Florida. Our dataset was developed using pictures and catalog Florida Museum of Natural History, and the Deep Learning model was generated using TensorFlow / Keras in Google Collab. The trained model had 85.4% accuracy. The user can upload an image or use their smartphone camera to identify over 70 species of butterflies and moths while visiting Butterfly Rainforest. Team: Alexia Rangel Krashenitsa, Amber Weihrich, Sonya Babski, Jay Rosen. 
 
 ---
 
-### 7. Astrophotography
-- **Description**: Captured the newly discovered Supernova SN 2023ixf in the Pinwheel Galaxy (M101) using advanced astrophotography techniques.
-- **Equipment**: Sony A6100, Skywatcher 35EQ Mount, and Skywatcher 80ED Telescope.
-- **Technology**: AI-powered tools like Sequator, Adobe Photoshop, and Topaz Labs Denoise AI.
-- **Recognition**: Featured on Florida and Georgia state websites representing National Parks.
+### 7. Astrophotography *(Award-Winning Project)*
+On May 20, 2023, I witnessed the newly discovered Supernova (SN 2023 ixf) in M101 Pinwheel Galaxy, the day of its discovery at Chiefland Astronomy Village. For astrophotography, I use a full spectrum modified Sony A6100 camera, mounted on a Skywatcher 35EQ Mount, and Skywatcher 80ED telescope (500mm, F6.3). I use various AI tools in my astrophotography development to stack and combine the long exposures in Sequator, color correction with Adobe Photoshop, and noise reduction and sharpening with Topaz Labs Denoise AI.   My astrophotography has won awards and featured in print publications and online blogs. My photos of the Milkyway are nationally recognized on state websites for Florida and Georgia, representing National Parks such as Paynes Prairie, Osceola National Forest, and Stephen C. Foster Dark Sky Park.
 
 ---
 
 ### 8. DCP Collaboratory Hologram Kiosk
-- **Proposal**: A public art hologram showcasing student and faculty architecture projects.
-- **Features**: Transparent LED displays for immersive viewing of CAD models in architectural environments.
+This 12’x12’x12 public art hologram was proposed for the Architecture Building expansion’s call to arts competition. For this proposal, large transparent LED displays  will showcase  student and faculty architecture projects as public art form. A student would be capable of uploading a CAD architecture or 3D model, and view in an immersive experience that blends with the environment.
 
 ---
 
 ### 9. Engineering Clocktower Hologram Kiosk
-- **Proposal**: A laser-projected hologram kiosk for the UF Engineering Clock Tower.
-- **Features**: Displays digital artworks, simulations, maps, and an AI chatbot (AI Alligator).
+This was a rejected proposal for UF Technology Innovation grant, to re-purpose the abandoned Engineering Clock Tower with a laser projected hologram kiosk. The kiosk uses 4 lasers projectors mounted in the ceiling, to showcase the capabilities of HiPerGator to the public Hologram Kiosk can display digital artworks, simulations, highlight UF sponsorships and events, and can be used for maps and AI chatbot, such as a 3D version of the AI Alligator.
 
 ---
 
