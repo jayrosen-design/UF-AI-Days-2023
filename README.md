@@ -4,10 +4,12 @@
 **Author**: Jay Rosen, BFA  
 [Website](https://jayrosen.design) | [LinkedIn](https://linkedin.com/in/jayrosenartist) | [GitHub](https://github.com/jayrosen-design)
 
+![UF AI Days 2023 Science Poster](https://github.com/jayrosen-design/UF-AI-Days-2023/blob/main/AI%20Days%20Poster%20-%20Jay%20Rosen%2048x36%2072dpi.png?raw=true)
+
 ---
 
 ## Abstract
-*Embracing AI in Artistic Visualization* explores the transformative role of Artificial Intelligence in art and technology, highlighting projects that push the boundaries of creativity. As an early beta-tester of OpenAI tools and platforms like MidJourney, my work demonstrates how AI can redefine artistic horizons, inspiring fresh perspectives while promoting ethical, responsible use of technology.
+Over the past year, the integration of AI into artistic endeavors has emerged as a transformative tool, enabling fresh perspectives and the realization of once-elusive visions. This journey, while not officially endorsed by the University of Florida, is deeply influenced by my dual roles as Web Developer in UF Information Technology and  long-time Fine Artist in the Gainesville community. As an early beta-tester for OpenAI and utilizing platforms like MidJourney, my creations are inspired by the pioneering spirit of the UF AI initiative, and my own desire to push the boundaries of Art & Technology.  While these works radiate artistic brilliance and complexity, they also stir conversations, primarily due to the lifelike fidelity achieved through AI, leading some to draw parallels with 'Deep Fakes.' It's imperative to note, however, that these pieces are anchored in positive creativity and exploration rather than deception. AI's potential in expanding an artist's horizon is undeniable, yet it beckons a responsibility to craft with joy and curiosity, steering away from potential misuse.
 
 ---
 
